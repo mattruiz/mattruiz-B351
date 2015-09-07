@@ -1,0 +1,38 @@
+2) After conversing with alice i think i have a basic understanding of how she works. 
+Personally I think that the bot is able to interpret what is being said to it by cutting up the sentence into
+its corresponding parts. For example, sentences that are correct according to the rules of grammer must have
+a subject and a verb. It is my assumption that alice can parse what we say to her, grab the verb and subject, and 
+then infer the meaning of our question or statement from a table that will then give alice the appropriate response.
+This means that alice needs methods to both parse the sentences we feed it and a method to look up the appropriate
+response. I also think that alice can recognize key phrases that are commonly used without the verb or the subject.
+For example saying Hello, which has an implied subject is recognized and responded to correctly. In this way alice can 
+respond to slang such as idk.
+
+3) After conversing with alice in a long string of nonsensical statements I also believe that alice is unable to recognize
+or respond to certain moder slang. For eample, multiple times in our conversations I used the phrase yolo.
+Without fail alice would always attempt to change the subject in an attempt to bring the conversation back
+to something that would warrant a response she could recognize. If the developers of alice could somehow find logs of 
+conversations from aol or text conversations from a mobile provider perhaps she could be taught to recognize these 
+uses of slang and respond in kind.
+
+4) To my level of understanding and experience i do believe that computers can only do what their programmers can tell them.
+I do not however believe that this means that they are not intelligent. We as human beings cannot become intelligent without
+first going to school or teaching ourselves one concept or another. Either way we first need to acquire the information before we can
+learn it. In the same way computers must be provided information and instructions before it can apply it.
+
+5) student pop. at IU is 46,817 (forbes.com profile on IU)
+   54% of americans (over the age of 18) drink coffee everyday (statisticbrain.com)
+   34% of those who drink coffee everyday go to a premium place like starbucks (statisticbrain.com)
+   There are 2 starbucks on campus (that i am aware of)
+   
+	54% of student pop. drink coffee every day (.54 * 46,817 = 25,281 (rounded))
+	34% of those students would go to starbucks (25,281 * .34 = 8,595(rounded))
+	if that number is equally divided between the two locations (8,595/2 = 4297)
+	
+	(with assumptions) around 4297 cups a day
+	
+	If an AI system was to calculate on its own the number of starbuck sold in the IMU each day
+	it would need to be able to search for key words and tables such as what percentage of people drink starbucks
+	and then know to apply that to the student population. Assuming it cannot find an actual number for the answer it
+	would need to know what information was relevant as well as how to apply that mathematically to come out with an 
+	acceptable number.
